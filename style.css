@@ -1,0 +1,102 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: rgb(251, 247, 229);
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 1rem 0;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    padding: 0;
+    margin: 0;
+}
+
+nav ul li {
+    margin: 0 1rem;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+.hero{
+    text-align: center;
+    background-color: rgb(62, 14, 14) ;
+    position: absolute;
+    width: 100%;
+}
+img{
+    width: 100%;
+    
+}
+
+p{ 
+    text-align: center;
+}
+.indo{
+    margin-left: 140px;
+}
+.suiit{
+    margin-left: 175px;
+}
+.jodhpuri{
+    margin-left: 145px;
+}
+.k-f{
+    margin-left: 150px;
+}
+.open{
+    margin-left: 130px;
+}
+.sap{
+    margin-left: 148px;
+}
+.img2,.img3,.img4,.img5,.img6{
+    width: 80%;
+    margin-left: 80px;
+    border: solid black;
+
+}
+.h1{
+    color: rgb(228, 228, 159);
+    font-family: "Baskervville SC", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+.product-1{
+    padding-top: 100px;
+}
+.product-1,.product-2,.product-3,.product-4,.product-5,.product-6,.product-7{
+    margin-right: 100px;
+}
+a{
+    color: black;
+}
+.suit{
+    color: blue;
+}
+h4{
+    font-family: "Roboto Mono", monospace;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+}
+.footer{
+    background-color: black;
+    color: white;
+    font-size: 12px;
+}
+a{
+    text-decoration: none;
+}
+.indo{
+    margin-left: 150px;
+}
